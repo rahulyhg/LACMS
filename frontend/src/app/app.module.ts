@@ -13,7 +13,7 @@ import { ResponseResetComponent } from './components/password/response-reset/res
   declarations: [
     AppComponent,
     NavbarComponent,
-    LoginComponent,git a
+    LoginComponent,
     SignupComponent,
     ProfileComponent,
     RequestResetComponent,
